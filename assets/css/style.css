@@ -1,4 +1,68 @@
-body{
-
+body {
+    background-image: url("../images/Classic-Rock-Bands.jpg");
+    width: 100%
 }
 
+h1 {
+    font-size: 43px;
+    border: solid 5px red;
+    background: white;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-bottom: 2%;
+    padding: 15px;
+    font-family: 'lobster', cursive;
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+img {
+    margin: 10px;
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border: solid red 2px;
+    margin-bottom: 5px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+}
+
+span {
+    border: solid red 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: yellow; 
+    font-size: 15px;
+}
+
+
+.container {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid 5px red;
+}
+
+#currentword {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
