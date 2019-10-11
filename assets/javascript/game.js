@@ -142,7 +142,7 @@ function aud() {
         a.pause();
         ledZeppelin.pause();
         acdc.play();
-        document.getElementById("image").src = "./assets/images/Back In Black – AC/DC.jpg";
+        document.getElementById("image").src = "./assets/images/ac-dc-back-in-black.jpg";
     }
 };
 
@@ -206,7 +206,7 @@ function complete() {
     } else if (guessesRemaining === 0) {
         losses++;
         reset()
-        document.getElementById("image").src = "/assets/images/tryAgain.png"
+        document.getElementById("image").src = "./assets/images/tryAgain.png"
         document.getElementById("losstracker").innerHTML = " " + losses;
     }
     //display losses on screen && guesses remaining countdown

@@ -1,5 +1,12 @@
 # Word-Guess-Game
 
-It will be a hangman game about classic rock from the 50s to 90s. You have to guess the title of the song and if it is correct you have won.
+This project is part of the third homework activity, in this task we need to create one of two computer games: Word Guess or Psychic. These applications will run in the browser and feature dynamically updated HTML and CSS with JavaScript code.
 
+I made the choice to create the game Word Guess because it is more challenging.
+
+Word Guess Game
+
+The game consists of you guessing the title of the song, the tips to guess are;
+
+Rock classics between the 70's and 90's.
 
